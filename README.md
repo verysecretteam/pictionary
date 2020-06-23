@@ -1,4 +1,4 @@
-= PICTIONARY =
+# PICTIONARY
 
 To run:
 ```
